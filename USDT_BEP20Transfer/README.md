@@ -24,7 +24,7 @@ A .NET 6 console application for easily transferring USDT (BEP20) tokens from yo
 
 ### ?? Installation
 
-1. Clone the repository or download the latest release
+1. Clone the repository or download the latest release 
 2. Build the project:
    ```bash
    dotnet build
