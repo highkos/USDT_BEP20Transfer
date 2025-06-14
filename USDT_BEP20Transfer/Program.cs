@@ -76,7 +76,7 @@ namespace USDT_BEP20Transfer
                             Environment.Exit(0);
                             return;
                         default:
-                            Console.WriteLine("❌ Invalid option selected");
+                            Console.WriteLine("❌ Invalid option selected.");
                             await Task.Delay(1000);
                             break;
                     }
